@@ -166,4 +166,3 @@ Follow the steps outlined in the notebook for data processing, model training, a
 
 ---
 
-Feel free to modify any sections to better suit your project's specifics!
